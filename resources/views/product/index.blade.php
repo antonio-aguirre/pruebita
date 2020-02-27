@@ -63,9 +63,9 @@
           <?php $count++; ?>
         @endforeach
       @else
-        <div class="alert alert-dark" role="alert">
-          <strong>¡Lo sentimos!</strong> No existen productos en almacén :c
-        </div>
+      <div class="alert alert-dark" role="alert">
+        <strong>¡Lo sentimos!</strong> No existen productos en almacén :c
+      </div>
       @endif
 
       <!--Botón para agregar un nuevo producto-->
